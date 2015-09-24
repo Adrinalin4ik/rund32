@@ -1,0 +1,20 @@
+C:\Users\Alex\Desktop\rund32\rund32\bin\Release\rund32.exe.config
+C:\Users\Alex\Desktop\rund32\rund32\bin\Release\rund32.exe
+C:\Users\Alex\Desktop\rund32\rund32\bin\Release\rund32.pdb
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Release\rund32.Form1.resources
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Release\rund32.Form2.resources
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Release\rund32.Properties.Resources.resources
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Release\rund32.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Release\rund32.exe
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Release\rund32.pdb
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Release\rund32.csprojResolveAssemblyReference.cache
+D:\Программы C#\rund32\rund32\bin\Release\rund32.exe.config
+D:\Программы C#\rund32\rund32\obj\x86\Release\rund32.exe
+D:\Программы C#\rund32\rund32\obj\x86\Release\rund32.pdb
+D:\Программы C#\rund32\rund32\bin\Release\rund32.exe
+D:\Программы C#\rund32\rund32\bin\Release\rund32.pdb
+D:\Программы C#\rund32\rund32\obj\x86\Release\rund32.csprojResolveAssemblyReference.cache
+D:\Программы C#\rund32\rund32\obj\x86\Release\rund32.Form1.resources
+D:\Программы C#\rund32\rund32\obj\x86\Release\rund32.Form2.resources
+D:\Программы C#\rund32\rund32\obj\x86\Release\rund32.Properties.Resources.resources
+D:\Программы C#\rund32\rund32\obj\x86\Release\rund32.csproj.GenerateResource.Cache

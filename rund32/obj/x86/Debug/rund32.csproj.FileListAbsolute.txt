@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\rund32\rund32\bin\Debug\rund32.exe.config
+C:\Users\Alex\Desktop\rund32\rund32\bin\Debug\rund32.exe
+C:\Users\Alex\Desktop\rund32\rund32\bin\Debug\rund32.pdb
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Debug\rund32.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Debug\rund32.Form1.resources
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Debug\rund32.Form2.resources
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Debug\rund32.Properties.Resources.resources
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Debug\rund32.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Debug\rund32.exe
+C:\Users\Alex\Desktop\rund32\rund32\obj\x86\Debug\rund32.pdb
